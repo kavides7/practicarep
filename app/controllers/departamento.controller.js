@@ -1,4 +1,4 @@
-// Importar la configuración de la base de datos y el modelo Customer
+ñ// Importar la configuración de la base de datos y el modelo Customer
 const db = require('../config/db.config.js');
 const Departamento = db.Departamento;
 
